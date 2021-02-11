@@ -6,3 +6,5 @@
 
 
 2. A good overview for loading data to PostGIS. https://info.crunchydata.com/blog/loading-data-into-postgis-an-overview
+
+3. Useful plugins for use in Denmark. http://qgis.dk/2020/09/29/plugins/
