@@ -9,4 +9,4 @@
 5. Useful plugins for use in Denmark. http://qgis.dk/2020/09/29/plugins/
 
 ### Parsing
-1.Parsing shapefiles to GeoJSON: https://www.npmjs.com/package/shapefile
+1. Parsing shapefiles to GeoJSON: https://www.npmjs.com/package/shapefile
