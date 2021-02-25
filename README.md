@@ -7,3 +7,6 @@
 3. 
 4. A good overview for loading data to PostGIS. https://info.crunchydata.com/blog/loading-data-into-postgis-an-overview
 5. Useful plugins for use in Denmark. http://qgis.dk/2020/09/29/plugins/
+
+### Parsing
+1.Parsing shapefiles to GeoJSON: https://www.npmjs.com/package/shapefile
